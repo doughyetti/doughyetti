@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on starting my software engineer career
 - 🌱 I’m currently learning React and everything that is front-end; I love the creative aspect of it!
 - 💬 Ask me about ... my cats ;)
+- ⚡ Fun fact: I was the New York Time's Person of the Year in 2006
 
 <!--
 **doughyetti/doughyetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
